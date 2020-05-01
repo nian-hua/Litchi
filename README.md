@@ -10,13 +10,14 @@ parameter:
   -T : Set Scan time.
   
   
-	-D : Set The ID of the connected device.
+  -D : Set The ID of the connected device.
   
   
-	-S : Set The service of the connected device.
+  -S : Set The service of the connected device.
   
   
-	-C : Set The characteristic of the connected service.
+  -C : Set The characteristic of the connected service.
   
   
-	-M : Set The Message to Device >> type:Hex.
+  -M : Set The Message to Device >> type:Hex.
+
